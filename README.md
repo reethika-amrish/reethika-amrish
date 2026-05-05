@@ -14,6 +14,16 @@ I work across the full SDLC, from requirements gathering and architecture design
 I’m particularly interested in building scalable enterprise solutions where great frontend design, strong software engineering, and AI-driven capabilities come together.
 
 I also value connecting with professionals, sharing ideas, and building meaningful relationships that foster collaboration and growth.
+
+📫 Connect with me through --> 
+
+   1. Email : reethikaj98@gmail.com
+ 
+   2. Phone : +1 551(216)-1511
+ 
+   3. LinkedIn : https://www.linkedin.com/in/reethikajayaprakash/
+ 
+   4. Portfolio : https://portfolio-site-reethika.netlify.app/
 <!--**reethika-amrish/reethika-amrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
